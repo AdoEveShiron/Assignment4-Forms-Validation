@@ -35,3 +35,5 @@ Screenshot (after submitting empty):
 
 ## Summary
 For this assignment I worked through plain HTML forms first and then moved to Bootstrap. Task 0 and Task 1 were pretty simple once I understood what each validation attribute does, and testing them in the browser was straightforward since Chrome shows its own validation popups automatically. Bootstrap took a bit more time to get used to, mostly figuring out that the validation feedback doesn't show up by itself - you need the was-validated class added through JavaScript after the form is submitted, which I copied from the Bootstrap docs. The registration form in Task 4 was the most work because it combines everything: HTML5 validation, Bootstrap grid for layout, and a custom check to make sure the two password fields match. Overall I understood the difference between the two validation approaches better: HTML5 validation is quick and built into the browser, while Bootstrap validation gives more control over how the messages look but needs a little bit of JavaScript to work properly.
+
+Visit site: https://adoeveshiron.github.io/Assignment4-Forms-Validation/
